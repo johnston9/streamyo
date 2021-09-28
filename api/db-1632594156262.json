@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "cats",
+      "description": "yea",
+      "id": 1
+    },
+    {
+      "title": "dogs- with user id n' patch",
+      "description": "doggies",
+      "userId": "117881041804933674830",
+      "id": 2
+    },
+    {
+      "title": "tigers",
+      "description": "using my own history",
+      "id": 3
+    }
+  ]
+}
